@@ -173,6 +173,10 @@
     font-size: .91em;
 }
 
+.e li span {
+    gap: 13px;
+}
+
 .e li .a {
     padding-left: 1.7em;
 
